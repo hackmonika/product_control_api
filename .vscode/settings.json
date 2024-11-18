@@ -1,0 +1,7 @@
+{
+  "ruby.rubocop.configFilePath": "/Users/rodrigotoledo/www/testes/products_control/product_control_api/.rubocop.yml",
+  "ruby.rubocop.executePath": "/Users/rodrigotoledo/www/testes/products_control/product_control_api/bin/",
+  "ruby.rubocop.useBundler": false,
+  "ruby.rubocop.autocorrectOnSave": true,
+  "ruby.linter.executablePath": "~/.asdf/installs/ruby/3.3.4/bin/"
+}
